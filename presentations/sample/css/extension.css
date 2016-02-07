@@ -1,0 +1,26 @@
+.reveal .footer {
+    position: absolute;
+    bottom: 1em;
+    left: 1em;
+    font-size: 0.5em;
+}
+
+.reveal .header {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+}
+
+.reveal .header img {
+    height: 1em;
+}
+
+.reveal .column-left {
+    float: left;
+    width: 50%;
+}
+
+.reveal .column-right {
+    float: right;
+    width: 50%;
+}
